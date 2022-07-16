@@ -3,8 +3,23 @@ body{
 }
 
 .title{
-    font-size: 24px;
+    font-size: 28px;
     font-weight: bold;
     text-align: center;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.nav{
+
+    background-color: white;
+    color: black;
+
+}
+
+.page{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+}
+
